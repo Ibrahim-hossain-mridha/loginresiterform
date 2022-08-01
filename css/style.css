@@ -1,0 +1,65 @@
+*{
+	padding: 0px;
+	margin: 0PX;
+}
+
+.login-section{
+	width: 100%;
+	
+}
+.login-box{
+	width: 300px;
+	margin: 100px auto;
+	background: #eeeeee;
+	padding: 50px;
+	border: 5px solid #000;
+}
+.avatar{
+	width: 100%;
+	text-align: center;
+}
+.avatar img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+}
+.login-box h2{
+	text-align: center;
+	text-transform:capitalize;
+	font-size: 30px;
+	font-weight: 700px;
+	letter-spacing: 2px;
+	padding: 20px;
+
+}
+.login-form{
+	width: 100%;
+}
+.form-group{
+	width: 100%;
+	margin: 15px;
+}
+.form-group label{
+	font-size: 20px;
+	font-weight: 800;
+    color: #000;
+    display: block;
+    text-transform: capitalize;
+    margin: 0px 0px 05px;
+}
+.form-group .form-control{
+	width: 70%;
+	padding: 05px;
+	font-size: 14px;
+	color: #777;
+	border: 2px solid #000;
+}
+.form-group .btn{
+	border: 2px solid #000;
+	width: 50%;
+	padding: 05px;
+	text-align: left;
+	font-weight: 800;
+	background:skyblue;
+}
+
